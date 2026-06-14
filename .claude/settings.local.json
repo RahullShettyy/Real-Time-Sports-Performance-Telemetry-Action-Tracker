@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(python -m pip install -r \"E:\\\\AI_MINI project\\\\requirements.txt\")",
+      "Skill(run)",
+      "PowerShell(streamlit run *)",
+      "PowerShell(python -m streamlit run \"E:\\\\AI_MINI project\\\\app.py\" --server.headless true)",
+      "PowerShell(python -m pip install --user lap)"
+    ]
+  }
+}
